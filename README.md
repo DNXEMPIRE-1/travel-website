@@ -29,5 +29,5 @@ Welcome to the Explore & Wander Website! 🚀 This project is your virtual gatew
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/explore-wander-website.git
+   git clone https://github.com/DNXEMPIRE-1/explore-wander-website.git
    cd explore-wander-website
